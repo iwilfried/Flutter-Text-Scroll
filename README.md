@@ -1,4 +1,6 @@
-# Flutter-Text-Scroll
+# Slides
+
+## Flutter-Text-Scroll
 
 A simple Slides Flutter app showing horizontal scrolling with text vertical scrolling 
 
