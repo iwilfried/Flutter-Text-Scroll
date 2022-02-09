@@ -69,7 +69,7 @@ class SlideOne extends StatelessWidget {
             child:
                 Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
               const Text(
-                "What is Lorem Ipsum? \n \n",
+                "What is Lorem Ipsum? IflandWilfie \n \n",
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
               ),
               const Text(
